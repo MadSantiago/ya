@@ -1,0 +1,24 @@
+package p000;
+
+import android.content.Intent;
+
+/* JADX INFO: renamed from: ۦۢؑٔؖ, reason: contains not printable characters */
+/* JADX INFO: compiled from: r8-map-id-0d494f8b6d83be2bf58e981e38c510150c6d0fab5a67cb4d4c794ec6fd37749a */
+/* JADX INFO: loaded from: classes.dex */
+public final class C5511 extends AbstractDialogInterfaceOnClickListenerC0521 {
+
+    /* JADX INFO: renamed from: ۦۨ */
+    public final /* synthetic */ Intent f18192;
+
+    public C5511(Intent intent, InterfaceC0568 interfaceC0568) {
+        this.f18192 = intent;
+    }
+
+    @Override // p000.AbstractDialogInterfaceOnClickListenerC0521
+    /* JADX INFO: renamed from: ۥۣ */
+    public final void mo1171() {
+        if (this.f18192 != null) {
+            throw null;
+        }
+    }
+}
